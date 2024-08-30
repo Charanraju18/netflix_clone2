@@ -18,7 +18,6 @@ function Navbar() {
 				<li>New & Popular</li>
 				<li>My List</li>
 				<li>Browse By Language</li>
-				<li>Home</li>
 			</ul>
 		</div>
 		<div className="navbar-right">
